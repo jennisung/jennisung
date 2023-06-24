@@ -1,7 +1,11 @@
 ## Hi, I'm Jennifer 👩🏻‍💻
-
-<div align="center">
-  <img src="img/lofi-girl.gif" alt="Lofi Girl" width="300">
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <p>Welcome to my GitHub 👋</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="img/lofi-girl.gif" alt="Lofi Girl" width="300">
+  </div>
 </div>
 
 <p align="center">
