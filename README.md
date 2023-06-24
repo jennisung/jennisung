@@ -1,12 +1,11 @@
 
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="img/banner.png" alt="Lofi Girl" width="800">
-</div>
+
 
 <p align="center">
-  <img src="img/jennifer.gif" alt="Jennifer GIF">
+  <img src="img/jennifer.gif" alt="Jennifer GIF" width="400">
 </p>
+
 
 
 <p align="center" style="margin-top: 20px;">
@@ -14,6 +13,7 @@
     <img src="https://streak-stats.demolab.com?user=jennisung&theme=submarine-flowers" alt="GitHub Streak">
   </a>
 </p>
+
 
 
 
