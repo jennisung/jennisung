@@ -1,6 +1,10 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tilt+Prism&family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+
 <p align="center" style="font-family: 'Ubuntu Condensed', sans-serif; font-size: 24px;">Welcome to my Github 👋</p>
 
-<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <img src="img/lofi-girl.gif" alt="Lofi Girl" width="300">
 </div>
 
