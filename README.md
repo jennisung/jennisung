@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- 
+ ![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?jennisung=yourusername&show_icons=true)
+
 <!--
 **jennisung/jennisung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
