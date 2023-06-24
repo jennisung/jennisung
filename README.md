@@ -10,3 +10,6 @@
     <img src="https://streak-stats.demolab.com?user=jennisung&theme=submarine-flowers" alt="GitHub Streak">
   </a>
 </p>
+
+![Visitor Count](https://profile-counter.glitch.me/jennisung/count.svg)
+
