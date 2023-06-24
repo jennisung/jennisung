@@ -11,5 +11,7 @@
   </a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/jennisung/count.svg)
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/jennisung/count.svg)
+</p>
 
