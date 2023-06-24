@@ -1,4 +1,4 @@
-<p align="center">Welcome to my Github 👋</p>
+<p align="center" style="font-family: 'Ubuntu Condensed', sans-serif; font-size: 24px;">Welcome to my Github 👋</p>
 
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <img src="img/lofi-girl.gif" alt="Lofi Girl" width="300">
