@@ -1,4 +1,4 @@
-## Welcome to my Github 👋
+## Hi, I'm Jennifer 👩🏻‍💻
 
 <div align="center">
   <img src="img/lofi-girl.gif" alt="Lofi Girl" width="300">
