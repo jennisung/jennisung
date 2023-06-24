@@ -5,11 +5,6 @@
 </div>
 
 
-<video controls width="480">
-  <source src="img/jennifer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 
 
 <p align="center" style="margin-top: 20px;">
