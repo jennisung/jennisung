@@ -3,7 +3,8 @@
 <div style="display: flex;">
   <div style="flex: 1;">
     <p>
-      My summary
+      Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups
+
     </p>
   </div>
   <div style="flex: 1;">
