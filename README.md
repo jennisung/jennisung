@@ -4,7 +4,9 @@
   <img src="img/banner.png" alt="Lofi Girl" width="800">
 </div>
 
-
+<p align="center">
+  <img src="img/jennifer.gif" alt="Jennifer GIF">
+</p>
 
 
 <p align="center" style="margin-top: 20px;">
