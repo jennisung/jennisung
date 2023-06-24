@@ -1,7 +1,7 @@
 
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="img/banner.png" alt="Lofi Girl" width="700">
+  <img src="img/banner.png" alt="Lofi Girl" width="800">
 </div>
 
 
