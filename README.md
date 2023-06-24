@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=sunset-gradient)](https://git.io/streak-stats)
 
 ![girl with coffee](https://media.giphy.com/media/iDvCzaRjNV61J5jtc0/giphy.gif)
 
