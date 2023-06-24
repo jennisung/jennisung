@@ -25,8 +25,9 @@
 
 <div align="center">
 	<a href="mailto:jennifer.jungah.sung@gmail.com">
-	 	<img alt="Jennifer Email" width="22px" src="icons8-gmail-logo-48.png" style="max-width: 100%;">
+	<img alt="Jennifer Email" width="22px" src="icons8-gmail-logo-48.png" style="max-width: 100%;">
 	</a>
+	
 	<a href="https://www.linkedin.com/in/jennisung/" rel="nofollow">
   		<img alt="Jennifer LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
