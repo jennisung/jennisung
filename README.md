@@ -1,17 +1,12 @@
 # Under Construction 🔨
 
-### Hi there 👋
+### Welcome 👋
 
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="img/lofi-girl.gif" alt="Lofi Girl" width="300">
+</div>
 
-![girl with coffee](https://media.giphy.com/media/iDvCzaRjNV61J5jtc0/giphy.gif)
+<p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jennisung&theme=sunset-gradient)](https://git.io/streak-stats)
-
-
-
-
-
-
-
-<!-- ![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennisung&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=2234AE)
- -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jennisung&theme=submarine-flowers)](https://git.io/streak-stats)
+</p>
