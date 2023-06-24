@@ -7,8 +7,6 @@
 
 <div align="center">
 
-# Hello, I'm Jennifer
-
 I'm an aspiring software engineer with a background in healthcare and education. I received my bachelor's degree in Political Science with a focus on International Relations at Columbia University. Currently, I'm learning Java and Android development.
 
 </div>
