@@ -15,6 +15,19 @@
 
 I'm an aspiring software engineer with a background in healthcare and education. I received my bachelor's degree in Political Science with a focus on International Relations at Columbia University. Currently, I'm learning Java and Android development.
 
+<div align="center">
+
+## Want to Chat or Looking to Collaborate?
+
+Reach me via:
+
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jennisung/)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jennifer.jungah.sung@gmail.com)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/img_jenn/)
+
+</div>
+
+
 </div>
 
 
@@ -27,11 +40,6 @@ I'm an aspiring software engineer with a background in healthcare and education.
 <img src="https://streak-stats.demolab.com?user=jennisung&theme=submarine-flowers" alt="GitHub Streak">
 </a>
 </p>
-
-<a href="https://github.com/jennisung/github-readme-stats">
-  <img alt="Jennisung's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jennisung&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</a>
-<br/>
 
 
 <!-- 
