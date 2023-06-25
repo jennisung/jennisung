@@ -17,11 +17,14 @@ I'm an aspiring software engineer with a background in healthcare and education.
 </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennisung&layout=compact&theme=midnight-purple&card_width=800&hide_border=false)](https://github.com/josephhernandez26/github-readme-stats)
 
 <!-- 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
 <img src="img/banner.gif" alt="Lofi Girl" width="400">
 </div> -->
+
+
 
 
 
