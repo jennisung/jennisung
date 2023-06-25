@@ -13,7 +13,9 @@
   <h1 style="font-size: 35px;">About Me</h1>
 </div>
 
-I'm an aspiring software engineer with a background in healthcare and education. I received my bachelor's degree in Political Science with a focus on International Relations at Columbia University. Currently, I'm learning Java and Android development.
+I'm an aspiring software engineer with a background in healthcare and education. My academic background includes a bachelor's degree in Political Science, with a focus on International Relations from Columbia University. Currently, I am focused on expanding my skills into Java and Android development. However, I'm also familiar with HTML, CSS, and JavaScript, and I have experience working with frameworks such as React.js. 
+
+I'm open to collaborating with anyone on projects that make a positive impact. Please feel free to reach me, if you'd like to work together! 
 
 <div align="center">
 
