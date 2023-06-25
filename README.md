@@ -17,7 +17,7 @@ I'm an aspiring software engineer with a background in healthcare and education.
 
 <div align="center">
 
-## Want to Chat or Looking to Collaborate?
+### Want to Chat or Looking to Collaborate?
 
 Reach me via:
 
