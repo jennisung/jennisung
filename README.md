@@ -44,6 +44,7 @@ I'm open to collaborating with anyone on projects that make a positive impact. P
 </a>
 </p>
 
+[GitHub Streak Counter](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!-- 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
