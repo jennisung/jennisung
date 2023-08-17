@@ -46,9 +46,3 @@ I'm open to collaborating with anyone on projects that make a positive impact. P
 </p>
 
 
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/jennisunh/count.svg)
-
-</div>
