@@ -55,7 +55,8 @@ I'm open to collaborating with anyone on projects that make a positive impact. P
 
 <div align="center">
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?jennisung=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jennisung&
+
 
 
 </div>
