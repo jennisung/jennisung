@@ -2,8 +2,6 @@
   <img src="https://img.shields.io/github/followers/jennisung?style=social">
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/jennisunh/count.svg)
-
 
 <p align="center">
 
@@ -47,6 +45,12 @@ I'm open to collaborating with anyone on projects that make a positive impact. P
 </a>
 </p>
 
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/jennisunh/count.svg)
+
+</div>
 
 
 
