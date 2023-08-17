@@ -53,7 +53,11 @@ I'm open to collaborating with anyone on projects that make a positive impact. P
 </div>
 
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?jennisung=voyager19878"/>
+
+</div>
 
 
 
