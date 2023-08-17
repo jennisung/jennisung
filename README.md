@@ -2,6 +2,9 @@
   <img src="https://img.shields.io/github/followers/jennisung?style=social">
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/jennisunh/count.svg)
+
+
 <p align="center">
 
   <img src="img/jennifer.gif" alt="Jennifer GIF" width="850">
