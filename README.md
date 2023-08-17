@@ -49,13 +49,6 @@ I'm open to collaborating with anyone on projects that make a positive impact. P
 
 <div align="center">
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jennisung&langs_count=5&theme=tokyonight)](https://github.com/jennisung)
-
-</div>
-
-
-<div align="center">
-
 ![Visitor Count](https://profile-counter.glitch.me/jennisunh/count.svg)
 
 </div>
