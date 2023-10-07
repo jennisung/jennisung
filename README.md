@@ -14,7 +14,7 @@
   <h1 style="font-size: 35px;">About Me</h1>
 </div>
 
-I'm an aspiring software engineer with a background in healthcare and education. My academic background includes a bachelor's degree in Political Science, with a focus on International Relations from Columbia University. Currently, I am focused on expanding my skills into Java and Android development. However, I'm proficient in HTML, CSS, and JavaScript, with experience working with technologies like React.js, MongoDB, Node.js and Express.
+Hey there! 😊 I'm a passionate full stack developer specialized in Java and Android Development. I'm also skilled in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding, I also have a background in healthcare, education, and a degree in Political Science from Columbia University. Right now, I'm diving deeper into the world of Java and Android. Let's connect and build something amazing together!
 
 I'm open to collaborating with anyone on projects that make a positive impact. Please feel free to reach me, if you'd like to work together! 
 
