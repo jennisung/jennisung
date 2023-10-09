@@ -14,7 +14,7 @@
   <h1 style="font-size: 35px;">About Me</h1>
 </div>
 
-Ho! I'm a full stack developer specialized in Java and Android Development. I'm also skilled in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding and transitioning into the tech field, I also have a background in healthcare, education, and a degree in Political Science from Columbia University. Right now, I'm diving deeper into the world of Java and Android. Let's connect and build something!
+Hi! I'm a full stack developer specialized in Java and Android Development. I'm also skilled in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding and transitioning into the tech field, I also have a background in healthcare, education, and a degree in Political Science from Columbia University. Right now, I'm diving deeper into the world of Java and Android. Let's connect and build something!
 
 I'm open to collaborating with anyone on projects that make a positive impact. Please feel free to reach me, if you'd like to work together! 
 
