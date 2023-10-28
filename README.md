@@ -14,9 +14,9 @@
   <h1 style="font-size: 35px;">About Me</h1>
 </div>
 
-Hi! I'm a full stack developer specialized in Java and Android Development. I'm also skilled in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding and transitioning into the tech field, I also have a background in healthcare, education, and a degree in Political Science from Columbia University. Right now, I'm diving deeper into the world of Java and Android. Let's connect and build something!
+Hi! I'm a full-stack developer specialized in Java and Android Development. I'm also experienced in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding, I also have a background in healthcare, education, and a degree in Political Science from Columbia University. Let's connect and build something!
 
-I'm open to collaborating with anyone on projects that make a positive impact. Please feel free to reach me, if you'd like to work together! 
+I'm open to collaborating with anyone on projects that peaks my interests. Please feel free to reach me, if you'd like to work together! 
 
 <div align="center">
 
@@ -24,10 +24,10 @@ I'm open to collaborating with anyone on projects that make a positive impact. P
 
 📫 Reach me via:
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jennisung/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jennisung/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jennifer.jungah.sung@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JenniferSu82956)
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/img_jenn/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/img_jenn/)
 
 </div>
 
