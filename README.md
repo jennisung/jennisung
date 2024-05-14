@@ -14,7 +14,7 @@
   <h1 style="font-size: 35px;">About Me</h1>
 </div>
 
-Hi! I'm a full-stack developer specialized in Java and Android Development. I'm also experienced in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding, I also have a background in healthcare, education, and a degree in Political Science from Columbia University. Let's connect and build something!
+Hi! I'm a full-stack developer specialized in Java and Android Development. I'm also experienced in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding, I also have a background in healthcare, and education. I am a current CS student at WGU. Let's connect and build something!
 
 I'm open to collaborating with anyone on projects that peaks my interests. Please feel free to reach me, if you'd like to work together! 
 
