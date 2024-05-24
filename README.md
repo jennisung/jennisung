@@ -14,9 +14,11 @@
   <h1 style="font-size: 35px;">About Me</h1>
 </div>
 
-Hi! I'm a full-stack developer specialized in Java and Android Development. I'm also experienced in Python, R, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding, I also have a background in healthcare, IT and education. I am a current CS student at WGU. Let's connect and build something!
+Hi there! My name is Jennifer (she/her), and I am a recent graduate of Columbia University, where I studied Political Science with a focus on International Relations. I am currently studying Computer Science at WGU. I have worked in various fields, ranging from military healthcare and IT to education. My interest in tech began during the pandemic when I was introduced to coding by a professor who was building a website to make educational materials more accessible to low-income students through technology. This sparked my own interest in getting into coding, as I could intertwine my diverse background to make a difference.
 
-I'm open to collaborating with anyone on projects that peaks my interests. Please feel free to reach me, if you'd like to work together! 
+I currently work as a T.A. for calculus and algebra courses at the CUNY system, also providing content for open educational resources (OER) for math students.
+
+Please feel free to connect with me if you have any questions or if you would like to learn more about my background and interests. I am open to new opportunities and would love to explore potential collaborations.
 
 <div align="center">
 
