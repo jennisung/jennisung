@@ -37,14 +37,4 @@ Please feel free to connect with me if you have any questions or if you would li
 </div>
 
 
-<div align="center">
-  <h1><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="25"> My Stats</h1>
-</div>
-
-<p align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=jennisung&theme=submarine-flowers" alt="GitHub Streak">
-</a>
-</p>
-
 
